@@ -60,7 +60,7 @@
         <retrofit.version>2.5.0</retrofit.version>
         <lomok.version>1.16.22</lomok.version>
         <dropwizard.metric.core.version>4.0.0</dropwizard.metric.core.version>
-        <apache.http.client.version>4.5.6</apache.http.client.version>
+        <apache.http.client.version>4.5.13</apache.http.client.version>
         <apache.http.httpmime.version>4.5.6</apache.http.httpmime.version>
         <javax.persistence.version>2.2.1</javax.persistence.version>
         <classgraph.version>4.8.43</classgraph.version>
