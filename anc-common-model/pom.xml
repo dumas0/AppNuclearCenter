@@ -4,15 +4,15 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <artifactId>AppNuclearCenter</artifactId>
         <groupId>com.dumas.anc</groupId>
+        <artifactId>AppNuclearCenter</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
     <!--当前模块-->
     <artifactId>anc-common-model</artifactId>
     <name>anc-common-model</name>
-    <version>${anc.version}</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <description>通用数据模型</description>
 
